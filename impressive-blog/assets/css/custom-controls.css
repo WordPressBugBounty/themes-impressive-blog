@@ -1,0 +1,6 @@
+li#accordion-section-upsell_section,
+li#accordion-section-city_blog_categories_section,
+li#accordion-section-city_blog_grid_list_section,
+li#customize-control-primary_color {
+    display: none !important;
+}
