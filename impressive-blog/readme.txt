@@ -3,8 +3,8 @@
 Contributors: ascendoor
 Tags: custom-background, custom-logo, custom-colors, custom-menu, featured-images, threaded-comments, translation-ready, theme-options, footer-widgets, full-width-template, left-sidebar, right-sidebar, news, blog
 Requires at least: 5.0
-Tested up to: 6.2
-Stable tag: 1.0.2
+Tested up to: 6.6
+Stable tag: 1.0.3
 Requires PHP: 7.4
 License: GNU General Public License v3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
@@ -28,6 +28,13 @@ Yes, the theme is integrated to work with following plugins:
 * Contact Form 7: This plugin is recommended to use for contact forms on contact page.
 
 == Changelog ==
+
+= 1.0.6 =
+* Minified js and css
+* Frontpage section's posts display orderby latest date
+* Fixed condition to check post category in related posts section
+* Updated language file
+* Tested up to WordPress 6.6
 
 = 1.0.2
 * Fixed header image on mobile
